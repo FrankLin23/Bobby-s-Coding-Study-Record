@@ -23,5 +23,5 @@
 10. Middleware
 11. Distributed/Microservice
 12. Practical project
-    - 
+
 

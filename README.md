@@ -2,7 +2,7 @@
 
 
 
-> This Repository is going to record my study Java font-end and back-end's course. 
+> This Repository is going to record my study Java font-end and back-end courses. 
 
 
 
@@ -12,16 +12,16 @@
    - Basic Grammar
    - JVM
    - Concurrency and Multithreading
-2. Data Structure and Algorithm
+2. Data Structures and Algorithms
 3. Computer Network
 4. Database
-5. Operating System
-6. Design Pattern
+5. Operating Systems
+6. Design Patterns
 7. Development Tools
 8. Spring Frameworks
 9. Servers
 10. Middleware
 11. Distributed/Microservice
-12. Practical project
+12. Practical projects
 
 
